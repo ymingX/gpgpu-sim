@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda.a CMakeFiles/cuda.dir/cuda_runtime_api.cc.o CMakeFiles/cuda.dir/cuobjdump_parser.c.o CMakeFiles/cuda.dir/cuobjdump_lexer.c.o
+/usr/bin/ranlib libcuda.a
